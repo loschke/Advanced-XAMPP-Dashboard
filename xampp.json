@@ -1,0 +1,11 @@
+{
+  "name":"XAMPP Dashboard",
+  "desc":"Advanced XAMPP Dashboard",
+  "local_database_name":"test",
+  "repo_url":"https://github.com/loschke/Advanced-XAMPP-Dashboard",
+  "localhost_url":"",
+  "localhost_login_url":"",
+  "stage_url":"",
+  "live_site_url":"",
+  "live_backend_url":""
+}
