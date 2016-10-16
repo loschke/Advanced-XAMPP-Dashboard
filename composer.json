@@ -1,0 +1,14 @@
+{
+  "name": "sevenx/xampp-dashboard",
+  "description": "Advanced XAMPP Dashboard",
+  "keywords": ["xampp", "dashboard", "sevenx"],
+  "homepage": "https://github.com/loschke/Advanced-XAMPP-Dashboard",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "sevenX - Rico Loschke",
+      "email": "hello@sevenX.de",
+      "homepage": "https://sevenx.de"
+    }
+  ]
+}
