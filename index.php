@@ -46,7 +46,7 @@
         </thead>
         <tbody>
           <?php
-          foreach (glob("X:/Webserver/htdocs/*/xampp.json") as $file) {
+          foreach (glob("C:/Webserver/htdocs/*/xampp.json") as $file) {
             $string = file_get_contents($file);
             $json = json_decode( $string, true );?>
           <tr>
