@@ -4,7 +4,7 @@
   "local_database_name":"",
   "repo_url":"https://github.com/loschke/Advanced-XAMPP-Dashboard",
   "localhost_url":"",
-  "localhost_login_url":"",
+  "localhost_backend_url":"",
   "stage_url":"",
   "live_site_url":"",
   "live_backend_url":""
