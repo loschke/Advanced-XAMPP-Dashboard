@@ -3,9 +3,9 @@
   "desc":"Advanced XAMPP Dashboard",
   "local_database_name":"",
   "repo_url":"https://github.com/loschke/Advanced-XAMPP-Dashboard",
-  "localhost_url":"",
+  "localhost_url":"http://localhost/YOUR_PROJECT_FOLDER",
   "localhost_backend_url":"",
-  "stage_url":"",
-  "live_site_url":"",
+  "stage_url":"http://YOUR_STAGE_URL.com",
+  "live_site_url":"http://YOUR_LIVE_URL.com",
   "live_backend_url":""
 }
